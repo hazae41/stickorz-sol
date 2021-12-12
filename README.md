@@ -1,4 +1,4 @@
-# stickorz-sol
+# Stickorz.sol
 Solidity contracts for Stickorz
 
 ## Bank
